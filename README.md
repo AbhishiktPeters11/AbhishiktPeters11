@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:abhishiktedward@gmail.com">📫 Email</a> |
-  <a href="https://www.linkedin.com/in/abhishiktedward/">🔗 LinkedIn</a> |
-  <a href="https://github.com/abhishiktedward">💻 GitHub</a>
+  <a href="https://www.linkedin.com/in/abhishikt-edward-peters/">🔗 LinkedIn</a> |
+  <a href="https://github.com/AbhishiktPeters11">💻 GitHub</a>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ### 🔗 Let's Connect
 
-I'm open to collaborations, research, and internship opportunities. Reach out via [email](mailto:abhishiktedward@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishiktedward/).
+I'm open to collaborations, research, and internship opportunities. Reach out via [email](mailto:abhishiktedward@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishikt-edward-peters/).
 
 ---
 
