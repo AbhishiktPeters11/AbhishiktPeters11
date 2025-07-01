@@ -55,7 +55,7 @@
 
 ### 📜 Publications
 
-- **IEEE AIIoT 2024:** _Multi-Object Detection and Tracking for Car Assembly Efficiency_  
+- **IEEE AIIoT 2024:** _Revolutionizing Car Assembly Line Efficiency Using Multi-Object Detection and Tracking_  
   [🔗 View Paper](https://ieeexplore.ieee.org/document/10574552)
 
 ---
