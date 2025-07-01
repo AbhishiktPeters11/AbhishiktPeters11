@@ -2,77 +2,113 @@
 <h3 align="center">MSc in Computer Science (Intelligent Systems) @ Trinity College Dublin</h3>
 
 <p align="center">
-  <a href="mailto:abhishiktedward@gmail.com">📫 Email</a> |
-  <a href="https://www.linkedin.com/in/abhishikt-edward-peters/">🔗 LinkedIn</a> |
-  <a href="https://github.com/AbhishiktPeters11">💻 GitHub</a>
+  <a href="mailto:abhishiktedward@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishikt-edward-peters/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AbhishiktPeters11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 **Master's Student** at Trinity College Dublin, Specialising in *Intelligent Systems*
-- 💡 Passionate about AI, Generative Models, Bayesian Analysis, and Applied Data Science
-- 📊 Former **Data Analyst Trainee** @ SEMIONICS
-- 💻 Web Dev & Full Stack Intern at **Alpha Dreamz** and **Arizta Software**
-- 🧪 Published Researcher @ IEEE AIIoT 2024 Conference
+- 🎓 MSc @ Trinity College Dublin | First Class Honors  
+- 🧠 Specialisation: Intelligent Systems, AI, Bayesian Modelling, Generative Models  
+- 📊 Former Data Analyst @ SEMIONICS  
+- 💻 Web Dev Intern @ Alpha Dreamz & Arizta Software  
+- 🧪 IEEE Published Author (AIIoT 2024)
 
 ---
 
-### 🚀 Projects that Inspire Impact
+### 🚀 Projects That Drive Impact
 
-- **🏥 Demand Forecasting in Healthcare Systems**  
-  Improved nursing resource forecasting by **18%** using ensemble learning and time series.
+#### 🏥 Demand Forecasting in Healthcare  
+> Time series + ensemble models for predicting nurse staffing  
+> ⬆️ Forecasting accuracy improved by 18%
 
-- **🌍 Geospatial Pollution Analysis**  
-  Modelled air quality across **6.78M data points** using GWR; influenced local environmental policy.
+#### 🌍 Geospatial Pollution Analysis  
+> GWR on 6.78M geotagged readings  
+> 🗺️ Enabled policy design at city-block resolution
 
-- **📉 Depression & GOP Voting Study**  
-  Ran Bayesian hierarchical models on 3,000+ counties; revealed key political-health links.
+#### 📉 Bayesian Voting & Mental Health  
+> GLMM models on 3,000+ U.S. counties  
+> 📊 Revealed key health–political trends
 
-- **🧭 Dynamic Sustainable Wayfinding**  
-  Built a microservices-based app that **reduced user carbon footprints by 12%**.
+#### 🧭 Dynamic Sustainable Wayfinding  
+> Microservices-based live traffic routing  
+> ♻️ Cut average carbon footprint by 12%
 
-- **🎵 Generative Music with Transformers**  
-  GPT-style MIDI generator with **27% lower perplexity** than LSTM baselines.
+#### 🎵 Music Generation with Transformers  
+> Trained GPT-style MIDI generator in PyTorch  
+> 🎯 Beat LSTM baseline by 27% (perplexity)
 
-- **🩺 Adaptive Health Monitoring**  
-  React + Flask system using wearable data with 14-day feedback loop; boosted engagement by 22%.
-
----
-
-### 📚 Skills Snapshot
-
-| Area | Tools & Tech |
-|------|--------------|
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, HuggingFace, FastAI, LLMs |
-| **Data** | Python, R, SQL, Spark, Hadoop, Snowflake, Power BI |
-| **Web/Cloud** | Flask, React, Docker, AWS, Azure, Informatica, Streamlit |
-| **Languages** | Python, R, C++, Java, SQL (Postgres & MySQL) |
-| **Specialties** | NLP, Computer Vision, Bayesian Modelling, Reinforcement Learning |
+#### 🩺 Adaptive Health Tracker  
+> React + Flask + Oura Ring pipeline  
+> 📈 22% user engagement boost via feedback engine
 
 ---
 
-### 📜 Publications
+### 🛠 Tech Stack
 
-- **IEEE AIIoT 2024:** _Revolutionizing Car Assembly Line Efficiency Using Multi-Object Detection and Tracking_  
-  [🔗 View Paper](https://ieeexplore.ieee.org/document/10574552)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+**ML/AI:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
+
+**Data & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Web/Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🏅 Achievements & Leadership
+### 📘 Publications
 
-- 🧑‍🏫 English Tutor @ Trinity University of Sanctuary
-- 🗳️ Elected CSE Representative @ KITS
-- 👟 Trinity Annual 5K Run Finisher
-- 🤝 HR Team @ IEEE KITS Chapter
-
----
-
-### 🔗 Let's Connect
-
-I'm open to collaborations, research, and internship opportunities. Reach out via [email](mailto:abhishiktedward@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishikt-edward-peters/).
+📰 IEEE AIIoT 2024  
+**"Revolutionizing Car Assembly Line Efficiency Using Multi-Object Detection and Tracking"**  
+[🔗 View Paper](https://ieeexplore.ieee.org/document/10574552)
 
 ---
 
-_“Build something today that helps someone tomorrow.”_
+### 🏅 Achievements
+
+- 🧑‍🏫 English Tutor @ Trinity University of Sanctuary  
+- 🗳️ CSE Representative @ KITS  
+- 🏃 Trinity Annual 5K Finisher  
+- 🤝 HR Team @ IEEE, KITS
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishiktPeters11&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishiktPeters11&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishiktPeters11&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+I'm always open to interesting collaborations, research, and internships.  
+📫 [Email Me](mailto:abhishiktedward@gmail.com) • [LinkedIn](https://www.linkedin.com/in/abhishikt-edward-peters/)
+
+---
+
+<p align="center"><i>“Build something today that helps someone tomorrow.”</i></p>
