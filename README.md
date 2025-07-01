@@ -69,18 +69,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishiktedward&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishiktedward&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishiktedward&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 I'm open to collaborations, research, and internship opportunities. Reach out via [email](mailto:abhishiktedward@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishiktedward/).
