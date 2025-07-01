@@ -92,18 +92,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishiktPeters11&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishiktPeters11&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishiktPeters11&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
 I'm always open to interesting collaborations, research, and internships.  
